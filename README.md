@@ -1,0 +1,2 @@
+# 20220307
+#include&lt;stdio.h> int main (void{     printf("hello Selina");     printf("my height is %d m %d cm \n ",1,68);     printf("this building is %5d cm \n ",890);     printf("this building is %5d cm \n ",7890);     printf("this building is %5d cm \n ",67890);     printf("this building is %5d cm \n ",5678890);     printf("this building is %5d cm \n ",1234567890);     printf("pi = %f \n" , 3.141592653589793284626433832795); }    
